@@ -1,0 +1,12 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+body {
+    align-items: center;
+}
+h1{
+    color:bisque
+}
